@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>KD_CASH_NOT_ENOUGH_TITLE</key>
+	<string>&gt;_&lt;</string>
+	<key>KD_NEW_REMOTE_CASH_ADDED</key>
+	<string>收到来自积分墙赚取的%d积分</string>
+	<key>KD_CASH_NOT_ENOUGH_CONTENT</key>
+	<string>智商不够，积分余额也不足了么...  还是先赚点积分吧～</string>
+	<key>KD_AWARD_DAILY_CONTENT</key>
+	<string>今日首次登陆，奖励钻石10积分。</string>
+	<key>KD_AWARD_DAILY_TITLE</key>
+	<string>日常奖励</string>
+	<key>KD_MORE_CASH</key>
+	<string>更多积分</string>
+	<key>KD_DESC_500</key>
+	<string>6元</string>
+	<key>KD_DESC_2000</key>
+	<string>18元</string>
+	<key>KD_DESC_DOMOB</key>
+	<string>多盟免费积分</string>
+	<key>KD_DESC_YOUMI</key>
+	<string>有米免费积分</string>
+	<key>KD_DESC_XINGYUN</key>
+	<string>行云免费积分</string>
+	<key>KD_DESC_AIDEWEI</key>
+	<string>爱德威免费积分</string>
+	<key>KD_DESC_FREE_POINT</key>
+	<string>免费积分%d</string>
+	<key>IAP_Dialog_Buy</key>
+	<string>购买</string>
+	<key>IAP_Dialog_Cancel</key>
+	<string>取消</string>
+	<key>IAP_Upgrade_Description</key>
+	<string>您需要购买完整版以解锁剩余关卡并去除广告，这将是对我们极大的支持和鼓励～</string>
+	<key>IAP_Restore_Description</key>
+	<string>如果您之前已经升级过完整版，请通过此处恢复之前的购买</string>
+	<key>IAP_Purchase_Success_Description</key>
+	<string>支付成功！感谢您的支持</string>
+	<key>IAP_Purchase_Fail_Description</key>
+	<string>支付失败，过程中出现未知问题</string>
+	<key>IOS_Rate_Us_Description</key>
+	<string>喜欢本游戏的话,
+希望亲能给个好评喵～</string>
+	<key>IOS_Rate_Us_Yes</key>
+	<string>去评分</string>
+	<key>IOS_Rate_Us_No</key>
+	<string>不再询问</string>
+	<key>Share_Content</key>
+	<string>我的智商刚刚打败了全国1%的玩家~你的智商是多少呢？来试试《奇怪的大冒险》吧～ Android:http://t.cn/zHxvAt5 iOS: http://t.cn/zHxvAtt
+    </string>
+	<key>Share_Success</key>
+	<string>分享成功</string>
+	<key>Share_Fail</key>
+	<string>分享失败</string>
+	<key>App_Name</key>
+	<string>奇怪的大冒险</string>
+	<key>Help_Title</key>
+	<string>帮助</string>
+	<key>Help_Content</key>
+	<string>左下方的方向键控制左右。右下方的按钮控制人物跳跃。大部分情况下，找到本关的公主即可过关。温馨提醒：请不要轻易相信游戏中的任何温馨提醒。</string>
+	<key>Green_Content</key>
+	<string>A fatal exception 0E has occurred at 0157:BF7FF831.  The current
+application will be terminated.
+
+*  Press any key to terminate the current application.
+*  Press CTRL+ALT+DEL again to restart your computer.  You will
+lose any unsaved information in all applications.
+
+Press any key to continue _
+    </string>
+	<key>Prompt_Content_1_1</key>
+	<string>1. 开头的问号不能顶
+2. 站在顶出的隐藏问号上直接走下去，不要跳
+3. 两个水管之间不能跳下去。应该在左边水管处顶出隐藏问号，站在问号上跳到对面
+4. 在右边的水管上不要停留，否则会被飞弹打死</string>
+	<key>Prompt_Content_1_2</key>
+	<string>1. 将机关触控后牌子掉下来，注意躲开
+2. 问号箱子不要顶，会长毒草
+3. 第一个问号箱子的左上方有暗箱
+4. 最终要跳女神身后</string>
+	<key>Prompt_Content_1_3</key>
+	<string>对着闹钟一顿胖揍～</string>
+	<key>Prompt_Content_1_4</key>
+	<string>1. 一开始要一路上跳到最上方的平台
+2. 史莱姆会随玩家一起跳，此时要往回走，左上方有暗箱</string>
+	<key>Prompt_Content_1_5</key>
+	<string>1. 一开局迅速跳到平台上
+2. 金币收不收集都无所谓
+3. 将河边的飞弹引出后再跳过去</string>
+	<key>Prompt_Content_1_6</key>
+	<string>一开始的箱子最多只能顶28下。 站在箱子上向左上方顶，会把提示文本里的【？】顶出</string>
+	<key>Prompt_Content_2_1</key>
+	<string>1. 一开局就直接向左走，向右走是不可能通关的
+2. 左边的三个台阶都是动态的，注意不要作停留</string>
+	<key>Prompt_Content_2_2</key>
+	<string>1. 注意jump键的位子
+2. 第一个看到的女神是假女神，正确的是从最上面的平台一直向右走。</string>
+	<key>Prompt_Content_2_3</key>
+	<string>直接用手指戳草泥马的脸就行啦～</string>
+	<key>Prompt_Content_2_4</key>
+	<string>用手将广告牌移开</string>
+	<key>Prompt_Content_2_5</key>
+	<string>1. 一开始在飞弹的路径上顶一下，把阻挡的箱子顶出来
+2. 充分利用飞弹。站在水管中冲出的飞弹上向右走， 跟着飞弹的节奏一路向前。
+3. 出现坦克的时候迅速跳到箱子上面</string>
+	<key>Prompt_Content_2_6</key>
+	<string>最后一波开火是没有用的。直接拿手戳</string>
+	<key>Prompt_Content_3_1</key>
+	<string>1. 第一个河边有隐藏箱子，要提前一点跳
+2. 最后四个史莱姆中，前三个会提前跳跃，不要动弹就行。遇到第四个时从头上跳过去。</string>
+	<key>Prompt_Content_3_2</key>
+	<string>1. 一开始在飞弹的路径上顶一下，把阻挡的箱子顶出来
+2. 充分利用飞弹。站在水管中冲出的飞弹上向右走， 跟着飞弹的节奏一路向前。
+3. 出现坦克的时候迅速跳到箱子上面</string>
+	<key>Prompt_Content_3_3</key>
+	<string>这一关中没有任何一把钥匙可以开门。正确的方法是回到游戏的开始界面上，会看到一把大红钥匙。点击这把钥匙，再回到本关中，走到女神身边就可以开门了。</string>
+	<key>Prompt_Content_3_4</key>
+	<string>先向右边走，取得钻石后，再一直向地图左边走，找到女神。 注意，右侧的第二个箱子不要顶开。</string>
+	<key>Prompt_Content_3_5</key>
+	<string>站在最开始的开关上原地跳三下，把开关踩坏，否则方向会一直来回摇摆。</string>
+	<key>Prompt_Content_3_6</key>
+	<string>正确的答案是顶一下右边的ThankCreate这个名字</string>
+	<key>Prompt_Content_4_1</key>
+	<string>1. 吃掉第一个箱子中顶出的“?”会得到一次续命机会。 在地刺中死一次，重新开始时会发现前一次死亡的角色会成为跳板。
+2. 踩3下可以把开关踩坏
+3. 遇到草泥马时不要逃， 正面撞死它。</string>
+	<key>Prompt_Content_4_2</key>
+	<string>按照提示的音符顺序弹奏即可，最后一个音符是用手戳女神的脸。
+如果实在不识谱的话，请按顺序顶方块：1155665443322</string>
+	<key>Prompt_Content_4_3</key>
+	<string>最后的史莱姆是没有办法通过开火消灭的。正确的做法是直接从史莱姆上方的墙上撞出去。</string>
+	<key>Prompt_Content_4_4</key>
+	<string>1. 在最开始的箱子上跳三下，跟随其向右走
+2. 出现“危险”和“安全”两条路时都别走，从最上面的路走</string>
+	<key>Prompt_Content_4_5</key>
+	<string>用子弹打掉中间的一竖排，其它用手戳</string>
+	<key>Prompt_Content_4_6</key>
+	<string>一进入本关立即用手向上滑动两次，以使上方的移动块停住。等下方的移动块一直上移到最大限度时，最底侧会出现一个按钮。此时用手向下滑动两次使下方的移动块停住，右侧锯墙开启，但是不要进入右侧。点击底部？按钮，撞开左侧锯墙，进入左侧区域即可发现公主</string>
+	<key>Prompt_Content_5_1</key>
+	<string>1. 一开始两个问号左侧的砖块都是可以向上顶的
+2. 第一个保存点是假的
+3. 浮动平台可以原地跳，把它踩到下层</string>
+	<key>Prompt_Content_5_2</key>
+	<string>几个特殊配对：
+1.左侧的公主头像和最中间的卡牌是配对的
+2.两个中文汉字“配对”本身是配对的。
+3.游戏失败后的小电视里那个哭泣的脸和游戏场景里主角哭泣脸是配对的</string>
+	<key>Prompt_Content_5_3</key>
+	<string>右侧角色说出第一句话后迅速用手向下拖拽主角的头，以使其表达赞成。 当右侧主角提出新问题后，迅速用手指向左、向右拖拽主角的头，以使其表达反对。</string>
+	<key>Prompt_Content_5_4</key>
+	<string>1. 开局时用手指拖拽水管使其下降，不然主角会摔死
+2. 想办法干掉第2个史莱姆
+3. 上层平台问号顶开，可以得到金币</string>
+	<key>Prompt_Content_5_5</key>
+	<string>如果在5-4里已经拿到800块钱，直接全种上豌豆射手，轻松通过。否则回到5-4把800挣到手再回来吧。</string>
+	<key>Prompt_Content_5_6</key>
+	<string>进入第二形态后，迅速将左上角的音量按钮调成静音模式，并拖拽到草泥马的嘴上
+第三形态的草泥马会反弹子弹，草泥马开始进军后，拖动所左上角的“返回按钮”到地面上，绊倒草泥马，通关。</string>
+	<key>Prompt_Content_6_1</key>
+	<string>吃掉手枪后，消灭所有从水管中蹦出来的史莱姆可以奖一条命</string>
+	<key>Prompt_Content_6_2</key>
+	<string>从最左边的水管向左走，可以穿到屏幕的另一端</string>
+	<key>Prompt_Content_6_3</key>
+	<string>出牌阶段点击敌方牌区，可以控制敌方的牌色</string>
+	<key>Prompt_Content_6_4</key>
+	<string>在各种能死的地方都死一次，公主就会出现在启始点</string>
+	<key>Prompt_Content_6_5</key>
+	<string>通过点击道具来切换控制焦点</string>
+	<key>Prompt_Content_6_6</key>
+	<string>本关绝大部分时候什么都不用做，中间会出现黑屏、崩溃对话框等，都不要管，当公主走到离玩家最近时，迅速走过去</string>
+</dict>
+</plist>
